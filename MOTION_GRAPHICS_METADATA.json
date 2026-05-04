@@ -1,0 +1,5253 @@
+{
+  "system": "PROMETHEUS_MOTION_GRAPHICS_TAGGING",
+  "version": "2.0",
+  "assetCount": 79,
+  "assets": [
+    {
+      "assetId": "3d_cool_card_animation",
+      "assetName": "3d COOL CARD animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "information_architecture",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "organization",
+        "hierarchy",
+        "comparison"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "testimonial_frame",
+        "benefit_listing",
+        "feature_highlight"
+      ],
+      "symbolicMeaning": [
+        "importance",
+        "premium",
+        "structure"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "3d COOL CARD animation information_architecture clarity professionalism trust organization hierarchy comparison structure importance premium",
+      "animationDuration": "10000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "core_replaceable_word_(syllabic_break_for_core_words)",
+      "assetName": "CORE replaceable word (syllabic break for core words)",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [],
+      "emotionalRoles": [
+        "believability",
+        "engagement",
+        "professional",
+        "balanced",
+        "emphasis",
+        "impact"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "CORE replaceable word (syllabic break for core words) narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": false,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "growth_animation",
+      "assetName": "GROWTH animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "momentum_amplification",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "professional",
+        "magic",
+        "importance"
+      ],
+      "rhetoricalRoles": [
+        "transformation",
+        "acceleration",
+        "breakthrough"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "motivation_beat",
+        "results_showcase",
+        "transformation_story"
+      ],
+      "symbolicMeaning": [
+        "improvement",
+        "ascension",
+        "breaking_limits"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "GROWTH animation momentum_amplification inspiration momentum empowerment transformation breakthrough acceleration ascension improvement breaking_limits",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": true
+      }
+    },
+    {
+      "assetId": "message_animation,_interaction_animation",
+      "assetName": "MESSAGE ANIMATION, INTERACTION animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "engagement_trigger",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "engagement",
+        "premium",
+        "reflective",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "invitation",
+        "interaction",
+        "call_to_action"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "cta_emphasis",
+        "interaction_prompt",
+        "input_highlight"
+      ],
+      "symbolicMeaning": [
+        "participation",
+        "response",
+        "action"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "MESSAGE ANIMATION, INTERACTION animation engagement_trigger engagement participation agency call_to_action interaction invitation action response participation",
+      "animationDuration": "4000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "number_steps_counter_caller",
+      "assetName": "NUMBER steps counter caller",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "premium",
+        "trust",
+        "clarity",
+        "magic",
+        "importance",
+        "balanced"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "NUMBER steps counter caller procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "600ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "three_main_words...animation",
+      "assetName": "THREE MAIN WORDS...ANIMATION",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "THREE MAIN WORDS...ANIMATION narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "6000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "three_steps_pyramid_animation",
+      "assetName": "THREE steps pyramid animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "THREE steps pyramid animation procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "2000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "animated_quote_reveal",
+      "assetName": "animated_quote_reveal",
+      "assetType": "motion_graphic",
+      "primaryFunction": "testimony_showcase",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "professional",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "social_proof",
+        "proof",
+        "authority"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "belief_confirmation",
+        "quote_reveal",
+        "social_proof"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "validation",
+        "wisdom"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "animated_quote_reveal testimony_showcase resonance trust inspiration proof social_proof authority wisdom authority validation",
+      "animationDuration": "550ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "apple_selection_clean",
+      "assetName": "apple_selection_clean",
+      "assetType": "motion_graphic",
+      "primaryFunction": "engagement_trigger",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "engagement",
+        "premium",
+        "professional",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "invitation",
+        "interaction",
+        "call_to_action"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "cta_emphasis",
+        "interaction_prompt",
+        "input_highlight"
+      ],
+      "symbolicMeaning": [
+        "participation",
+        "response",
+        "action"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "apple_selection_clean engagement_trigger engagement participation agency call_to_action interaction invitation action response participation",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": true
+      }
+    },
+    {
+      "assetId": "bar_for_comparing_two_values",
+      "assetName": "bar for comparing two values",
+      "assetType": "motion_graphic",
+      "primaryFunction": "proof_visualization",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "premium",
+        "professional",
+        "clarity",
+        "magic",
+        "importance",
+        "balanced"
+      ],
+      "rhetoricalRoles": [
+        "trajectory",
+        "evidence",
+        "pattern_recognition"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "results_slide",
+        "improvement_proof",
+        "performance_metric"
+      ],
+      "symbolicMeaning": [
+        "performance",
+        "improvement",
+        "growth"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "bar for comparing two values proof_visualization confidence clarity momentum evidence pattern_recognition trajectory growth performance improvement",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "blur-reveal",
+      "assetName": "blur-reveal",
+      "assetType": "motion_graphic",
+      "primaryFunction": "cinematic_disclosure",
+      "secondaryFunctions": [
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "anticipation",
+        "focus",
+        "direction",
+        "revelation",
+        "immediate",
+        "punchy"
+      ],
+      "rhetoricalRoles": [
+        "discovery",
+        "emphasis",
+        "tension_release"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "key_point_emphasis",
+        "opening_beat",
+        "value_disclosure"
+      ],
+      "symbolicMeaning": [
+        "emergence",
+        "breakthrough",
+        "clarity"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "blur-reveal cinematic_disclosure anticipation revelation focus emphasis discovery tension_release breakthrough clarity emergence",
+      "animationDuration": "200ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": false,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "blur-underline",
+      "assetName": "blur-underline",
+      "assetType": "motion_graphic",
+      "primaryFunction": "cinematic_disclosure",
+      "secondaryFunctions": [
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "anticipation",
+        "focus",
+        "direction",
+        "revelation",
+        "professional",
+        "balanced"
+      ],
+      "rhetoricalRoles": [
+        "discovery",
+        "emphasis",
+        "tension_release"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "key_point_emphasis",
+        "opening_beat",
+        "value_disclosure"
+      ],
+      "symbolicMeaning": [
+        "emergence",
+        "breakthrough",
+        "clarity"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "blur-underline cinematic_disclosure anticipation revelation focus emphasis discovery tension_release breakthrough clarity emergence",
+      "animationDuration": "550ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": false,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "call_to_action_and_important_words",
+      "assetName": "call to action and important words",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "call to action and important words narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "6000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "calling_animation",
+      "assetName": "calling animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "system_articulation",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "premium",
+        "trust",
+        "reflective",
+        "magic",
+        "importance",
+        "emphasis"
+      ],
+      "rhetoricalRoles": [
+        "structure",
+        "clarity",
+        "explanation"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "workflow_reveal",
+        "system_intro",
+        "process_explanation"
+      ],
+      "symbolicMeaning": [
+        "order",
+        "system",
+        "control"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "calling animation system_articulation confidence understanding trust explanation structure clarity order system control",
+      "animationDuration": "2000ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "card_animation_with_replaceable_number_for_steps",
+      "assetName": "card animation with replaceable number for steps",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "card animation with replaceable number for steps procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "6000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "card_animation,_two_image_section",
+      "assetName": "card animation, two image section",
+      "assetType": "motion_graphic",
+      "primaryFunction": "information_architecture",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "organization",
+        "hierarchy",
+        "comparison"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "testimonial_frame",
+        "benefit_listing",
+        "feature_highlight"
+      ],
+      "symbolicMeaning": [
+        "importance",
+        "premium",
+        "structure"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "card animation, two image section information_architecture clarity professionalism trust organization hierarchy comparison structure importance premium",
+      "animationDuration": "600ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "card_animation",
+      "assetName": "card animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "information_architecture",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "organization",
+        "hierarchy",
+        "comparison"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "testimonial_frame",
+        "benefit_listing",
+        "feature_highlight"
+      ],
+      "symbolicMeaning": [
+        "importance",
+        "premium",
+        "structure"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "card animation information_architecture clarity professionalism trust organization hierarchy comparison structure importance premium",
+      "animationDuration": "1200ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "card_for_main_concept,_main_text,_and_subtext",
+      "assetName": "card for main concept, main text, and subtext",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "card for main concept, main text, and subtext narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "1200ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "card_text_animation_(lots_of_text_inputs,_might_have_to_remove_them)",
+      "assetName": "card text animation (lots of text inputs, might have to remove them)",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "card text animation (lots of text inputs, might have to remove them) narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "10000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "card_with_number_,_main_text__and_number",
+      "assetName": "card with number , main text  and number",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "card with number , main text  and number narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "1000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "check_mark_list_animation",
+      "assetName": "check mark list animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "credential_sequencing",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "professional",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "verification",
+        "accumulation",
+        "proof"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "qualification_proof",
+        "checklist_reveal",
+        "benefit_list"
+      ],
+      "symbolicMeaning": [
+        "verification",
+        "progress",
+        "achievement"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "check mark list animation credential_sequencing trust completion momentum verification accumulation proof achievement verification progress",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "circle-reveal",
+      "assetName": "circle-reveal",
+      "assetType": "motion_graphic",
+      "primaryFunction": "cinematic_disclosure",
+      "secondaryFunctions": [
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "anticipation",
+        "focus",
+        "direction",
+        "revelation",
+        "immediate",
+        "punchy"
+      ],
+      "rhetoricalRoles": [
+        "discovery",
+        "emphasis",
+        "tension_release"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "key_point_emphasis",
+        "opening_beat",
+        "value_disclosure"
+      ],
+      "symbolicMeaning": [
+        "emergence",
+        "breakthrough",
+        "clarity"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "circle-reveal cinematic_disclosure anticipation revelation focus emphasis discovery tension_release breakthrough clarity emergence",
+      "animationDuration": "200ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": false,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "cool_number_counter",
+      "assetName": "cool number counter",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "premium",
+        "trust",
+        "clarity",
+        "magic",
+        "importance",
+        "balanced"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "cool number counter procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "cursor_highlight_text_animation",
+      "assetName": "cursor highlight text animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "cursor highlight text animation narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": true
+      }
+    },
+    {
+      "assetId": "curve_drawing_five_points",
+      "assetName": "curve drawing five points",
+      "assetType": "motion_graphic",
+      "primaryFunction": "comparative_analysis",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "premium",
+        "reflective",
+        "clarity",
+        "magic",
+        "importance",
+        "emphasis"
+      ],
+      "rhetoricalRoles": [
+        "comparison",
+        "differentiation",
+        "proof"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "option_presentation",
+        "before_after",
+        "feature_comparison"
+      ],
+      "symbolicMeaning": [
+        "decision",
+        "contrast",
+        "choice"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "curve drawing five points comparative_analysis clarity emphasis understanding comparison differentiation proof contrast choice decision",
+      "animationDuration": "4500ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": true
+      }
+    },
+    {
+      "assetId": "date_movement_animation",
+      "assetName": "date movement animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "visual_element",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "immediate",
+        "premium",
+        "magic",
+        "importance",
+        "punchy",
+        "emphasis"
+      ],
+      "rhetoricalRoles": [],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [],
+      "symbolicMeaning": [],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "date movement animation visual_element premium importance magic",
+      "animationDuration": "300ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "facebook_animation",
+      "assetName": "facebook animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "social_proof_icon",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "reflective",
+        "belonging"
+      ],
+      "rhetoricalRoles": [
+        "credibility",
+        "validation",
+        "reach"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "social_validation",
+        "credibility_signal",
+        "platform_mention"
+      ],
+      "symbolicMeaning": [
+        "reach",
+        "influence",
+        "audience"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "facebook animation social_proof_icon trust belonging authority credibility reach validation influence audience reach",
+      "animationDuration": "4000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "four__steps_list_animation",
+      "assetName": "four  steps list animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "four  steps list animation procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "5000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "four_bar_steps_thingy",
+      "assetName": "four bar steps thingy",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "four bar steps thingy procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "2000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": true,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "four_steps_animation_line",
+      "assetName": "four steps animation line",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "four steps animation line procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "1500ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "four_steps_animation",
+      "assetName": "four steps animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "four steps animation procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "1200ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": true,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "four_steps_really_cool_animation(place_text_yourself)",
+      "assetName": "four steps really cool animation(place text yourself)",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "premium",
+        "trust",
+        "clarity",
+        "magic",
+        "importance",
+        "reflective"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "four steps really cool animation(place text yourself) procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "4000ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "from_one_point_or_concept_to_another_animation",
+      "assetName": "from one point or concept to another animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "idea_crystallization",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "professional",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "meaning_making",
+        "framework",
+        "concept_connection"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "framework_reveal",
+        "idea_highlight",
+        "concept_intro"
+      ],
+      "symbolicMeaning": [
+        "insight",
+        "revelation",
+        "understanding"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "from one point or concept to another animation idea_crystallization clarity breakthrough resonance concept_connection meaning_making framework insight understanding revelation",
+      "animationDuration": "1000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "highlight-word",
+      "assetName": "highlight-word",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "professional",
+        "balanced"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "highlight-word narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "600ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": false,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "idea,_information",
+      "assetName": "idea, information",
+      "assetType": "motion_graphic",
+      "primaryFunction": "idea_crystallization",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "reflective",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "meaning_making",
+        "framework",
+        "concept_connection"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "framework_reveal",
+        "idea_highlight",
+        "concept_intro"
+      ],
+      "symbolicMeaning": [
+        "insight",
+        "revelation",
+        "understanding"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "idea, information idea_crystallization clarity breakthrough resonance concept_connection meaning_making framework insight understanding revelation",
+      "animationDuration": "7000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "improvement,_progress_bar_animation",
+      "assetName": "improvement, progress bar animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "proof_visualization",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "professional",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "trajectory",
+        "evidence",
+        "pattern_recognition"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "results_slide",
+        "improvement_proof",
+        "performance_metric"
+      ],
+      "symbolicMeaning": [
+        "performance",
+        "improvement",
+        "growth"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "improvement, progress bar animation proof_visualization confidence clarity momentum evidence pattern_recognition trajectory growth performance improvement",
+      "animationDuration": "1200ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": true,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "instagram_animation",
+      "assetName": "instagram animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "social_proof_icon",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "reflective",
+        "belonging"
+      ],
+      "rhetoricalRoles": [
+        "credibility",
+        "validation",
+        "reach"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "social_validation",
+        "credibility_signal",
+        "platform_mention"
+      ],
+      "symbolicMeaning": [
+        "reach",
+        "influence",
+        "audience"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "instagram animation social_proof_icon trust belonging authority credibility reach validation influence audience reach",
+      "animationDuration": "4000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "linkedin_animation",
+      "assetName": "linkedin animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "social_proof_icon",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "reflective",
+        "belonging"
+      ],
+      "rhetoricalRoles": [
+        "credibility",
+        "validation",
+        "reach"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "social_validation",
+        "credibility_signal",
+        "platform_mention"
+      ],
+      "symbolicMeaning": [
+        "reach",
+        "influence",
+        "audience"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "linkedin animation social_proof_icon trust belonging authority credibility reach validation influence audience reach",
+      "animationDuration": "4000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "main_text_in_a__bubble_animation",
+      "assetName": "main text in a  bubble animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "main text in a  bubble animation narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "1800ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "main_word_inside_a_glow__box",
+      "assetName": "main word inside a glow  box",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "main word inside a glow  box narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "400ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "money_improvement_chat",
+      "assetName": "money improvement chat",
+      "assetType": "motion_graphic",
+      "primaryFunction": "financial_proof",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "premium",
+        "professional",
+        "magic",
+        "importance",
+        "balanced",
+        "emphasis"
+      ],
+      "rhetoricalRoles": [
+        "transformation",
+        "evidence",
+        "success"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "profit_display",
+        "income_reveal",
+        "transformation_proof"
+      ],
+      "symbolicMeaning": [
+        "prosperity",
+        "success",
+        "growth"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "money improvement chat financial_proof wealth success empowerment evidence transformation success prosperity growth success",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "moving_cards_animation",
+      "assetName": "moving Cards animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "information_architecture",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "immediate",
+        "premium",
+        "trust",
+        "clarity",
+        "magic",
+        "importance"
+      ],
+      "rhetoricalRoles": [
+        "organization",
+        "hierarchy",
+        "comparison"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "testimonial_frame",
+        "benefit_listing",
+        "feature_highlight"
+      ],
+      "symbolicMeaning": [
+        "importance",
+        "premium",
+        "structure"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "moving Cards animation information_architecture clarity professionalism trust organization hierarchy comparison structure importance premium",
+      "animationDuration": "280ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": true,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "number_counter",
+      "assetName": "number counter",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [],
+      "emotionalRoles": [
+        "professional",
+        "trust",
+        "clarity",
+        "balanced",
+        "emphasis",
+        "momentum"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "number counter procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": false,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "number_for_steps_counting_animation",
+      "assetName": "number for STEPS counting animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "number for STEPS counting animation procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "3500ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "people_animation",
+      "assetName": "people animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "social_connection",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "reflective",
+        "magic",
+        "importance"
+      ],
+      "rhetoricalRoles": [
+        "relatable",
+        "authentic",
+        "human"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "person_mention",
+        "testimonial_intro",
+        "avatar_reveal"
+      ],
+      "symbolicMeaning": [
+        "authenticity",
+        "humanity",
+        "relatability"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "people animation social_connection connection empathy identification relatable human authentic humanity authenticity relatability",
+      "animationDuration": "6000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "percentage_graph_animation_(animate_for_percentages)",
+      "assetName": "percentage graph animation (animate for percentages)",
+      "assetType": "motion_graphic",
+      "primaryFunction": "proof_visualization",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "reflective",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "trajectory",
+        "evidence",
+        "pattern_recognition"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "results_slide",
+        "improvement_proof",
+        "performance_metric"
+      ],
+      "symbolicMeaning": [
+        "performance",
+        "improvement",
+        "growth"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "percentage graph animation (animate for percentages) proof_visualization confidence clarity momentum evidence pattern_recognition trajectory growth performance improvement",
+      "animationDuration": "7500ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": true
+      }
+    },
+    {
+      "assetId": "person_introduction_card",
+      "assetName": "person introduction card",
+      "assetType": "motion_graphic",
+      "primaryFunction": "information_architecture",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "organization",
+        "hierarchy",
+        "comparison"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "testimonial_frame",
+        "benefit_listing",
+        "feature_highlight"
+      ],
+      "symbolicMeaning": [
+        "importance",
+        "premium",
+        "structure"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "person introduction card information_architecture clarity professionalism trust organization hierarchy comparison structure importance premium",
+      "animationDuration": "8000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "person,_alone,_thinking_animation",
+      "assetName": "person, alone, thinking animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "social_connection",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "reflective",
+        "magic",
+        "importance"
+      ],
+      "rhetoricalRoles": [
+        "relatable",
+        "authentic",
+        "human"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "person_mention",
+        "testimonial_intro",
+        "avatar_reveal"
+      ],
+      "symbolicMeaning": [
+        "authenticity",
+        "humanity",
+        "relatability"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "person, alone, thinking animation social_connection connection empathy identification relatable human authentic humanity authenticity relatability",
+      "animationDuration": "8000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "petal_four_steps__animation",
+      "assetName": "petal four STEPS  animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "petal four STEPS  animation procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": true,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "pyramid_four_mentions",
+      "assetName": "pyramid FOUR mentions",
+      "assetType": "motion_graphic",
+      "primaryFunction": "hierarchical_visualization",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "reflective",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "priority",
+        "organization",
+        "structure"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "ranking_show",
+        "structure_reveal",
+        "priority_display"
+      ],
+      "symbolicMeaning": [
+        "priority",
+        "hierarchy",
+        "structure"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "pyramid FOUR mentions hierarchical_visualization clarity order authority organization structure priority hierarchy priority structure",
+      "animationDuration": "1500ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "quote_box",
+      "assetName": "quote box",
+      "assetType": "motion_graphic",
+      "primaryFunction": "testimony_showcase",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "professional",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "social_proof",
+        "proof",
+        "authority"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "belief_confirmation",
+        "quote_reveal",
+        "social_proof"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "validation",
+        "wisdom"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "quote box testimony_showcase resonance trust inspiration proof social_proof authority wisdom authority validation",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "random_thoughts(random__words_or_mentions)",
+      "assetName": "random thoughts(random  words or mentions)",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "random thoughts(random  words or mentions) narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "8000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": true
+      }
+    },
+    {
+      "assetId": "search_box_input",
+      "assetName": "search box input",
+      "assetType": "motion_graphic",
+      "primaryFunction": "engagement_trigger",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "immediate",
+        "engagement",
+        "premium",
+        "magic",
+        "importance",
+        "participation"
+      ],
+      "rhetoricalRoles": [
+        "invitation",
+        "interaction",
+        "call_to_action"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "cta_emphasis",
+        "interaction_prompt",
+        "input_highlight"
+      ],
+      "symbolicMeaning": [
+        "participation",
+        "response",
+        "action"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "search box input engagement_trigger engagement participation agency call_to_action interaction invitation action response participation",
+      "animationDuration": "300ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "step_counter_five",
+      "assetName": "step counter five",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "premium",
+        "trust",
+        "clarity",
+        "magic",
+        "importance",
+        "balanced"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "step counter five procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "500ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "steps_pointer,_dynamic_for_three_steps,_four_steps,_five_steps",
+      "assetName": "steps pointer, dynamic for three steps, four steps, five steps",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "steps pointer, dynamic for three steps, four steps, five steps procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "1500ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": true
+      }
+    },
+    {
+      "assetId": "systems,_process,_loading_animation",
+      "assetName": "systems, process, loading animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "system_articulation",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "reflective",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "structure",
+        "clarity",
+        "explanation"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "workflow_reveal",
+        "system_intro",
+        "process_explanation"
+      ],
+      "symbolicMeaning": [
+        "order",
+        "system",
+        "control"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "systems, process, loading animation system_articulation confidence understanding trust explanation structure clarity order system control",
+      "animationDuration": "8000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "text_gradient_animation",
+      "assetName": "text gradient animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "text gradient animation narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "1500ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "text_highlight_animation",
+      "assetName": "text highlight animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "text highlight animation narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "text_highlight...subpar_quality",
+      "assetName": "text highlight...subpar quality",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "text highlight...subpar quality narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "900ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "text_in_a_glow_box_animation",
+      "assetName": "text in a glow box animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "text in a glow box animation narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "4000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "text_mask_animation",
+      "assetName": "text mask animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "text mask animation narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "1500ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "text_underline",
+      "assetName": "text underline",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "text underline narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "1200ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "text_underlining_effect",
+      "assetName": "text underlining effect",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "believability",
+        "engagement",
+        "premium",
+        "reflective",
+        "magic",
+        "importance"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "text underlining effect narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "4000ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "three_steps_card_animation",
+      "assetName": "three Steps Card animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "three Steps Card animation procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "700ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": true,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "three_card_points_(increases_to_five)",
+      "assetName": "three card points (increases to five)",
+      "assetType": "motion_graphic",
+      "primaryFunction": "information_architecture",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "organization",
+        "hierarchy",
+        "comparison"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "testimonial_frame",
+        "benefit_listing",
+        "feature_highlight"
+      ],
+      "symbolicMeaning": [
+        "importance",
+        "premium",
+        "structure"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "three card points (increases to five) information_architecture clarity professionalism trust organization hierarchy comparison structure importance premium",
+      "animationDuration": "400ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "three_steps_animation_no_text",
+      "assetName": "three steps animation no text",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "immediate",
+        "premium",
+        "trust",
+        "clarity",
+        "magic",
+        "importance"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "three steps animation no text procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "300ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "three_steps_animation",
+      "assetName": "three steps animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "three steps animation procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "3000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "three_steps_bubble_animation",
+      "assetName": "three steps bubble animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "premium",
+        "trust",
+        "clarity",
+        "magic",
+        "importance",
+        "balanced"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "three steps bubble animation procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "900ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "three_steps_list_animation",
+      "assetName": "three steps list animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "premium",
+        "trust",
+        "clarity",
+        "magic",
+        "importance",
+        "balanced"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "three steps list animation procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "three_steps_pyramid",
+      "assetName": "three steps pyramid",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "three steps pyramid procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "1200ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": true,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "tiliting_card,_two_steps",
+      "assetName": "tiliting card, two steps",
+      "assetType": "motion_graphic",
+      "primaryFunction": "procedural_disclosure",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "authority",
+        "progression",
+        "instruction"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "tutorial",
+        "credential_building",
+        "process_explanation",
+        "sales_funnel"
+      ],
+      "symbolicMeaning": [
+        "mastery",
+        "hierarchy",
+        "progression",
+        "sequence"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "tiliting card, two steps procedural_disclosure trust clarity momentum progression authority instruction progression hierarchy sequence",
+      "animationDuration": "5000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "twitter_animation",
+      "assetName": "twitter animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "social_proof_icon",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "reflective",
+        "belonging"
+      ],
+      "rhetoricalRoles": [
+        "credibility",
+        "validation",
+        "reach"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "social_validation",
+        "credibility_signal",
+        "platform_mention"
+      ],
+      "symbolicMeaning": [
+        "reach",
+        "influence",
+        "audience"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "twitter animation social_proof_icon trust belonging authority credibility reach validation influence audience reach",
+      "animationDuration": "4000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "two_main_points_card",
+      "assetName": "two main points card",
+      "assetType": "motion_graphic",
+      "primaryFunction": "information_architecture",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "clarity",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "organization",
+        "hierarchy",
+        "comparison"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "testimonial_frame",
+        "benefit_listing",
+        "feature_highlight"
+      ],
+      "symbolicMeaning": [
+        "importance",
+        "premium",
+        "structure"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "two main points card information_architecture clarity professionalism trust organization hierarchy comparison structure importance premium",
+      "animationDuration": "1400ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "type_in_a_search_box_animation",
+      "assetName": "type in a search box animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "engagement_trigger",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "engagement",
+        "premium",
+        "professional",
+        "magic",
+        "importance",
+        "balanced"
+      ],
+      "rhetoricalRoles": [
+        "invitation",
+        "interaction",
+        "call_to_action"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "cta_emphasis",
+        "interaction_prompt",
+        "input_highlight"
+      ],
+      "symbolicMeaning": [
+        "participation",
+        "response",
+        "action"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "type in a search box animation engagement_trigger engagement participation agency call_to_action interaction invitation action response participation",
+      "animationDuration": "800ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "typewriter",
+      "assetName": "typewriter",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [],
+      "emotionalRoles": [
+        "believability",
+        "engagement",
+        "professional",
+        "balanced",
+        "emphasis",
+        "impact"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "high",
+      "motionBehavior": [
+        "scale_transformation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "typewriter narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "700ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": false,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "word_cross_out",
+      "assetName": "word cross out",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "believability",
+        "engagement",
+        "direction",
+        "premium",
+        "magic"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity",
+        "sequential_revelation"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "word cross out narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "1000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": true,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "wrong_choice_with_text",
+      "assetName": "wrong choice with text",
+      "assetType": "motion_graphic",
+      "primaryFunction": "narrative_delivery",
+      "secondaryFunctions": [
+        "emphasis_amplification"
+      ],
+      "emotionalRoles": [
+        "believability",
+        "engagement",
+        "premium",
+        "professional",
+        "magic",
+        "importance"
+      ],
+      "rhetoricalRoles": [
+        "retention",
+        "pacing",
+        "emphasis"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "call_to_action",
+        "headline",
+        "proof_statement",
+        "quote_revelation"
+      ],
+      "symbolicMeaning": [
+        "authority",
+        "importance",
+        "message"
+      ],
+      "renderComplexity": "moderate",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "wrong choice with text narrative_delivery engagement believability impact emphasis pacing retention authority importance message",
+      "animationDuration": "900ms",
+      "features": {
+        "blur_effect": false,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "youtube_animation",
+      "assetName": "youtube animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "social_proof_icon",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "reflective",
+        "belonging"
+      ],
+      "rhetoricalRoles": [
+        "credibility",
+        "validation",
+        "reach"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "social_validation",
+        "credibility_signal",
+        "platform_mention"
+      ],
+      "symbolicMeaning": [
+        "reach",
+        "influence",
+        "audience"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "youtube animation social_proof_icon trust belonging authority credibility reach validation influence audience reach",
+      "animationDuration": "4000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    },
+    {
+      "assetId": "youtube_new_animation",
+      "assetName": "youtube new animation",
+      "assetType": "motion_graphic",
+      "primaryFunction": "social_proof_icon",
+      "secondaryFunctions": [
+        "emphasis_amplification",
+        "focus_isolation"
+      ],
+      "emotionalRoles": [
+        "focus",
+        "direction",
+        "premium",
+        "trust",
+        "reflective",
+        "belonging"
+      ],
+      "rhetoricalRoles": [
+        "credibility",
+        "validation",
+        "reach"
+      ],
+      "visualEnergy": "moderate",
+      "motionBehavior": [
+        "scale_transformation",
+        "luminous_emergence",
+        "blur_to_clarity"
+      ],
+      "styleFamily": [
+        "premium_motion",
+        "cinematic_web",
+        "modern_professional"
+      ],
+      "creatorFit": [
+        "premium_creator",
+        "high_ticket_founder",
+        "cinematic_editor",
+        "authority_builder"
+      ],
+      "sceneUseCases": [
+        "social_validation",
+        "credibility_signal",
+        "platform_mention"
+      ],
+      "symbolicMeaning": [
+        "reach",
+        "influence",
+        "audience"
+      ],
+      "renderComplexity": "high",
+      "recommendedPlacement": [
+        "opening",
+        "key_point",
+        "transition",
+        "closing"
+      ],
+      "vectorSearchText": "youtube new animation social_proof_icon trust belonging authority credibility reach validation influence audience reach",
+      "animationDuration": "3000ms",
+      "features": {
+        "blur_effect": true,
+        "glow_effect": true,
+        "staggered_animation": false,
+        "responsive_design": false,
+        "canvas_rendering": false
+      }
+    }
+  ]
+}
